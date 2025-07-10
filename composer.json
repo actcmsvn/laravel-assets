@@ -3,12 +3,12 @@
     "description": "Laravel assets management",
     "license": "MIT",
     "keywords": [
-        "cms",
-        "actcms",
-        "actcms platform",
-        "botactcmsble assets"
+        "actcmsvn",
+        "actcmsvn cms",
+        "actcmsvn platform",
+        "actcmsvn assets"
     ],
-    "homepage": "https://actcms.io.vn",
+    "homepage": "https://actcmsvn.io.vn",
     "authors": [
         {
             "name": "ACTCMS Vietnam",
@@ -25,21 +25,21 @@
     },
     "autoload": {
         "psr-4": {
-            "ACTCMS\\Assets\\": "src"
+            "Actcmsvn\\Assets\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "ACTCMS\\Assets\\Tests\\": "tests"
+            "Actcmsvn\\Assets\\Tests\\": "tests"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "ACTCMS\\Assets\\Providers\\AssetsServiceProvider"
+                "Actcmsvn\\Assets\\Providers\\AssetsServiceProvider"
             ],
             "aliases": {
-                "Assets": "ACTCMS\\Assets\\Facades\\AssetsFacade"
+                "Assets": "Actcmsvn\\Assets\\Facades\\AssetsFacade"
             }
         }
     },

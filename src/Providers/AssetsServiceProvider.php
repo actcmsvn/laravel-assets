@@ -1,6 +1,6 @@
 <?php
 
-namespace ACTCMS\Assets\Providers;
+namespace Actcmsvn\Assets\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

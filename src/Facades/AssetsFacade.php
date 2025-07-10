@@ -1,8 +1,8 @@
 <?php
 
-namespace ACTCMS\Assets\Facades;
+namespace Actcmsvn\Assets\Facades;
 
-use ACTCMS\Assets\Assets;
+use Actcmsvn\Assets\Assets;
 use Illuminate\Support\Facades\Facade;
 
 /**
