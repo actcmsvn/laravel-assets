@@ -1,6 +1,6 @@
 # Laravel Assets management
 
-[![Latest Version](https://img.shields.io/github/release/actcmsvn/laravel-assets.svg?style=flat-square)](https://github.com/actcmsvn/laravel-assets/releases)
+[![Latest Version](https://img.shields.io/github/release/actcmsvn/laravel-assets.svg?style=flat-square)]([https://github.com/actcmsvn/laravel-assets/releases](https://packagist.org/packages/actcmsvn/assets))
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Quality Score](https://img.shields.io/scrutinizer/g/actcmsvn/laravel-assets.svg?style=flat-square)](https://scrutinizer-ci.com/g/actcmsvn/laravel-assets)
 [![StyleCI](https://styleci.io/repos/154250020/shield)](https://styleci.io/repos/154250020)
