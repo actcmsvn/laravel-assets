@@ -1,8 +1,8 @@
 <?php
 
-namespace Actcmsvn\Assets\Tests\Unit;
+namespace ACTCMS\Assets\Tests\Unit;
 
-use Actcmsvn\Assets\Assets;
+use ACTCMS\Assets\Assets;
 use Mockery;
 use PHPUnit\Framework\TestCase;
 

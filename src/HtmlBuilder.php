@@ -1,6 +1,6 @@
 <?php
 
-namespace Actcmsvn\Assets;
+namespace ACTCMS\Assets;
 
 use Illuminate\Contracts\Routing\UrlGenerator;
 use Illuminate\Support\HtmlString;

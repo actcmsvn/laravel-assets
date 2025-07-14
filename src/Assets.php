@@ -1,6 +1,6 @@
 <?php
 
-namespace Actcmsvn\Assets;
+namespace ACTCMS\Assets;
 
 use Illuminate\Config\Repository;
 use Illuminate\Support\Arr;

@@ -25,21 +25,21 @@
     },
     "autoload": {
         "psr-4": {
-            "Actcmsvn\\Assets\\": "src"
+            "ACTCMS\\Assets\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Actcmsvn\\Assets\\Tests\\": "tests"
+            "ACTCMS\\Assets\\Tests\\": "tests"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Actcmsvn\\Assets\\Providers\\AssetsServiceProvider"
+                "ACTCMS\\Assets\\Providers\\AssetsServiceProvider"
             ],
             "aliases": {
-                "Assets": "Actcmsvn\\Assets\\Facades\\AssetsFacade"
+                "Assets": "ACTCMS\\Assets\\Facades\\AssetsFacade"
             }
         }
     },
